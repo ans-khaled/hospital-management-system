@@ -60,6 +60,8 @@ It's built with modern C++ and is perfect to demonstrate your understanding of:
 - Environment: CMD / Terminal
 - Build System: g++ / Visual Studio
 
+---
+
 ## 🚀 How to Run
 
 1- Clone the repository:
