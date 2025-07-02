@@ -79,3 +79,12 @@ g++ main.cpp Doctor.cpp Patient.cpp Appointment.cpp Hospital.cpp -o hospital
 - Real-time doctor availability updates
 - More secure login with encryption
 - Unit testing support
+
+---
+
+## 👨‍💻 Author
+
+Anas Khaled 
+🎓 Computer Science Student at Thebes Academy 
+💻 Software Engineer & Programming Enthusiast 
+🔗 www.linkedin.com/in/anas-khaled-263b022ab
